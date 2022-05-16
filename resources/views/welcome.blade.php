@@ -405,7 +405,9 @@
 </head>
 
 <body class="antialiased">
-
+    @if(10<15)
+        <p>A condiação é Verdadeira</p>
+    @endif
 </body>
 
 </html>
